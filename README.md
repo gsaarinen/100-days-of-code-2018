@@ -1,4 +1,5 @@
-# I've joined the #100DaysOfCode Challenge.
+# I've joined the #100DaysOfCode Challenge -- AGAIN!
+## This is my second round of doing the challenge. It was so much fun last year I decided to do it again! Check out my first repo [here](https://github.com/gsaarinen/100-Days-Of-Code).
 
 ## Contents
 * [Rules](rules.md)
