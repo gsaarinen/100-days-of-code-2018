@@ -11,10 +11,11 @@
 **Time Logged:**
 
 1.5 hrs
+
 **Thoughts:**
 
-Let's do this 2018! Excited to be at it again with the 100 days project. 
+Let's do this 2018! Excited to be at it again with the 100 days project.
 
 **Link to work:**
 
-- updated the ol' [website](http://garretsaarinen.com/)
+Updated the ol' [website](http://garretsaarinen.com/)
