@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 3rd, 2018
+
+**Today's Progress:**
+
+Started working on the DevTips Tutorial - [React JS Prototyping](https://www.youtube.com/watch?v=k3bRdvmTdwQ). It's nice to FINALLY start playing around with React!
+
+**Time Logged:**
+
+1.15 hrs
+
+**Thoughts:**
+
+I know that I'm kind of jumping around right now with things I'm working on but it feels good to just get some exposure to some different technologies. Front-end frameworks like React are a bit of a hole in my knowledge so spending some time on getting to know how they work feels like a good move. 
+
+-----------------------------
+
 ### Day 2: January 2nd, 2018
 
 **Today's Progress:**
@@ -17,9 +33,9 @@ Also, I'll have to install node.js and such to get this running locally.
 
 **Thoughts:**
 
-Learning about Alexa skills is fun! The AWS tutorials are pretty thorough. I definitely recommend them. 
+Learning about Alexa skills is fun! The AWS tutorials are pretty thorough. I definitely recommend them.
 
-
+-----------------------------
 
 ### Day 1: January 1st, 2018
 
