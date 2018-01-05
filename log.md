@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 4th, 2018
+
+**Today's Progress:**
+
+
+
+**Time Logged:**
+
+1 hr
+
+**Thoughts:**
+
+
+
+-----------------------------
+
 ### Day 3: January 3rd, 2018
 
 **Today's Progress:**
@@ -12,7 +28,7 @@ Started working on the DevTips Tutorial - [React JS Prototyping](https://www.you
 
 **Thoughts:**
 
-I know that I'm kind of jumping around right now with things I'm working on but it feels good to just get some exposure to some different technologies. Front-end frameworks like React are a bit of a hole in my knowledge so spending some time on getting to know how they work feels like a good move. 
+I know that I'm kind of jumping around right now with things I'm working on but it feels good to just get some exposure to some different technologies. Front-end frameworks like React are a bit of a hole in my knowledge so spending some time on getting to know how they work feels like a good move.
 
 -----------------------------
 
