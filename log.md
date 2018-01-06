@@ -1,18 +1,40 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 6th, 2018
+
+**Today's Progress:**
+
+Continued work on the DevTips Tutorial - [React JS Prototyping](https://www.youtube.com/watch?v=k3bRdvmTdwQ). Had to skip yesterday 😬
+
+A few other things that I worked on:
+- Got `git` setup
+- Got `heroku` setup
+
+**Time Logged:**
+
+1.75 hrs
+
+**Thoughts:**
+
+Had some issues with getting the repo to build on Heroku. I found [this](https://devcenter.heroku.com/articles/troubleshooting-node-deploys) article that I need to dive into because I'm getting node version discrepancy issues.
+
+Fun stuff! 😊
+
+-----------------------------
+
 ### Day 4: January 4th, 2018
 
 **Today's Progress:**
 
-
+Continued work on the DevTips Tutorial - [React JS Prototyping](https://www.youtube.com/watch?v=k3bRdvmTdwQ).
 
 **Time Logged:**
 
-1 hr
+1.5 hrs
 
 **Thoughts:**
 
-
+This is fun. Kid got sick so I can't comment much.
 
 -----------------------------
 
