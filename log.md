@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 8th, 2018
+
+**Today's Progress:**
+
+Things I covered today:
+
+- [x] Fixed the Node version issues I was having with deploying to Heroku
+- [x] Started playing around with the new Smartsheet gem and the Ruby SDK
+- [x] Added a bunch of fake data and counters to the aggregate components in the React app
+
+**Time Logged:**
+
+2.5
+
+**Thoughts:**
+
+Super excited about Smartsheet having a [Ruby gem](https://github.com/smartsheet-platform/smartsheet-ruby-sdk) now! This will make it a lot easier to start playing around with it at work and allow me to potentially write some code for my job.
+
+Also, starting to get this React Spotify thing off the ground and it's nice to be learning more about React. It's really different though to have everything for a web page be in one file (styling, html, and JS).
+
+
+-----------------------------
+
 ### Day 5: January 6th, 2018
 
 **Today's Progress:**
@@ -7,8 +30,8 @@
 Continued work on the DevTips Tutorial - [React JS Prototyping](https://www.youtube.com/watch?v=k3bRdvmTdwQ). Had to skip yesterday 😬
 
 A few other things that I worked on:
-- Got `git` setup
-- Got `heroku` setup
+- [x] Got `git` setup
+- [x] Got `heroku` setup
 
 **Time Logged:**
 
