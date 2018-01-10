@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 9th, 2018
+
+**Today's Progress:**
+
+Spent more time going through the Smartsheet API and ruby gem.
+
+**Time Logged:**
+
+1
+
+**Thoughts:**
+
+Didn't get to spend a lot of time working on stuff today. Mostly just played with the Smartsheet API via the command line through `pry`. Still need to find a good use for it but I know it's out there!
+
+
+-----------------------------
+
 ### Day 6: January 8th, 2018
 
 **Today's Progress:**
