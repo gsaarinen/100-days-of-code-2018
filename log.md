@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 10th, 2018
+
+**Today's Progress:**
+
+Imported my Rails Micro-Blog app to my Github account from Bitbucket and did a lot of re-configure work.
+
+**Time Logged:**
+
+2
+
+**Thoughts:**
+
+I have the basics moved over but I'm still having 1 set of tests fail related to the `micropost_update` method for some for the UI integration tests. Really not sure why this is failing as the last time I ran them they all passed as I *never* `git push` with failing test 😉.
+
+I need to spend some time on figuring out how the push to Heroku will work since it's technically a different repo. As far as I understand, it should work fine since I believe it's just setup as another remote for git as I always push via the command-line using the Heroku CLI. 
+
+
+-----------------------------
+
+
 ### Day 7: January 9th, 2018
 
 **Today's Progress:**
@@ -12,7 +32,7 @@ Spent more time going through the Smartsheet API and ruby gem.
 
 **Thoughts:**
 
-Didn't get to spend a lot of time working on stuff today. Mostly just played with the Smartsheet API via the command line through `pry`. Still need to find a good use for it but I know it's out there!
+Didn't get to spend a lot of time working on stuff today. Mostly just played with the Smartsheet API via the command line through `pry`. Still need to find a good use for it but I know it's out there! Also, had another great MPLS Jr Dev meetup! Love that community!
 
 
 -----------------------------
