@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 11th, 2018
+
+**Today's Progress:**
+
+Updated some of the static pages on my micro-blog rails project. Also, updated my `.bash_profile` so it now displays my git branch.
+
+**Time Logged:**
+
+1.25
+
+**Thoughts:**
+
+Not a lot of things to expand upon. I need to work more on the `README`, adjust some of the content on the footer, and update a few other static pages so the rails app is more "show-able". Also, I really need to start looking into how I push it up to Heroku again. I could just push up a whole new branch but I'm worried that with all the AWS stuff I would have to re-do all that stuff. Probably would be good to learn it again though. 
+
+-----------------------------
+
+
 ### Day 8: January 10th, 2018
 
 **Today's Progress:**
@@ -14,7 +31,7 @@ Imported my Rails Micro-Blog app to my Github account from Bitbucket and did a l
 
 I have the basics moved over but I'm still having 1 set of tests fail related to the `micropost_update` method for some for the UI integration tests. Really not sure why this is failing as the last time I ran them they all passed as I *never* `git push` with failing test 😉.
 
-I need to spend some time on figuring out how the push to Heroku will work since it's technically a different repo. As far as I understand, it should work fine since I believe it's just setup as another remote for git as I always push via the command-line using the Heroku CLI. 
+I need to spend some time on figuring out how the push to Heroku will work since it's technically a different repo. As far as I understand, it should work fine since I believe it's just setup as another remote for git as I always push via the command-line using the Heroku CLI.
 
 
 -----------------------------
