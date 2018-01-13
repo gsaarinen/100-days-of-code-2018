@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 12th, 2018
+
+**Today's Progress:**
+
+Spent a good amount of time working on the micro-blog rails app and was able to successfully deploy to Heroku again. Also, set it up to auto deploy once it get's pushed to Github.
+
+In the afternoon I spent some time re-visiting the rails-spotify app as I found [this tutorial](https://www.sitepoint.com/rails-authentication-oauth-2-0-omniauth/) that walks through some rails + Oauth stuff.
+
+**Time Logged:**
+
+2.5
+
+**Thoughts:**
+
+It felt nice to dig back into the Spotify app. I'm really hoping that I can make some head-way this weekend and get the damn thing working so I can start pulling in user data. It seems like I was almost there but for some reason I'm getting a `NoMethodError` when I'm creating a new user in the sessions controller. I *know* there is a method on the users model that matches but I think it has something to do with the class inheritance. 
+
+-----------------------------
+
 ### Day 9: January 11th, 2018
 
 **Today's Progress:**
@@ -12,7 +30,7 @@ Updated some of the static pages on my micro-blog rails project. Also, updated m
 
 **Thoughts:**
 
-Not a lot of things to expand upon. I need to work more on the `README`, adjust some of the content on the footer, and update a few other static pages so the rails app is more "show-able". Also, I really need to start looking into how I push it up to Heroku again. I could just push up a whole new branch but I'm worried that with all the AWS stuff I would have to re-do all that stuff. Probably would be good to learn it again though. 
+Not a lot of things to expand upon. I need to work more on the `README`, adjust some of the content on the footer, and update a few other static pages so the rails app is more "show-able". Also, I really need to start looking into how I push it up to Heroku again. I could just push up a whole new branch but I'm worried that with all the AWS stuff I would have to re-do all that stuff. Probably would be good to learn it again though.
 
 -----------------------------
 
