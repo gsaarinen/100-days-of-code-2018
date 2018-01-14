@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 13th, 2018
+
+**Today's Progress:**
+
+Hell yeah - I got some of the basics of the Spotify authentication setup and running.
+
+**Time Logged:**
+
+1.5
+
+**Thoughts:**
+
+Finally! It's a bit far from anything useful but I am finally able to see the user info based on the spotify user data and I have the token saved in the db. Gotta hack on it more tomorrow but it's a big step forward. Next is testing and putting some of the `rspotify` gem methods to good use!
+
+
+-----------------------------
+
+
 ### Day 10: January 12th, 2018
 
 **Today's Progress:**
@@ -14,7 +32,7 @@ In the afternoon I spent some time re-visiting the rails-spotify app as I found 
 
 **Thoughts:**
 
-It felt nice to dig back into the Spotify app. I'm really hoping that I can make some head-way this weekend and get the damn thing working so I can start pulling in user data. It seems like I was almost there but for some reason I'm getting a `NoMethodError` when I'm creating a new user in the sessions controller. I *know* there is a method on the users model that matches but I think it has something to do with the class inheritance. 
+It felt nice to dig back into the Spotify app. I'm really hoping that I can make some head-way this weekend and get the damn thing working so I can start pulling in user data. It seems like I was almost there but for some reason I'm getting a `NoMethodError` when I'm creating a new user in the sessions controller. I *know* there is a method on the users model that matches but I think it has something to do with the class inheritance.
 
 -----------------------------
 
