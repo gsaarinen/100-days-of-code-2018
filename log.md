@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 16th, 2018
+
+**Today's Progress:**
+
+Spent most of my time updating my resume but also updated some README info on the micro blog as well as touch-up a few other things.
+
+**Time Logged:**
+
+1
+
+**Thoughts:**
+
+Not much to expand on. 
+
+-----------------------------
+
 ### Day 12: January 15th, 2018
 
 **Today's Progress:**
@@ -12,7 +28,7 @@ Skipped yesterday but spent a little time today going through the RSpotify docum
 
 **Thoughts:**
 
-Didn't get a ton done but I know where the issues are when I can't use the RSpotify methods. I need to most likely update my db so I can save certain attributes from the response I get when I use the `RSpotify::User.new` method. 
+Didn't get a ton done but I know where the issues are when I can't use the RSpotify methods. I need to most likely update my db so I can save certain attributes from the response I get when I use the `RSpotify::User.new` method.
 
 -----------------------------
 
