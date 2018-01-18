@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 17th, 2018
+
+**Today's Progress:**
+
+Worked just a bit on the Rails-Spotify project with Eric and updated some iTerm settings. Not super productive today. 👎
+
+**Time Logged:**
+
+1
+
+**Thoughts:**
+
+Not much to expand on.
+
+-----------------------------
+
 ### Day 13: January 16th, 2018
 
 **Today's Progress:**
@@ -12,7 +28,7 @@ Spent most of my time updating my resume but also updated some README info on th
 
 **Thoughts:**
 
-Not much to expand on. 
+Not much to expand on.
 
 -----------------------------
 
