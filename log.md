@@ -4,6 +4,23 @@
 
 **Today's Progress:**
 
+Played around more with the Rails Spotify app.
+
+**Time Logged:**
+
+2
+
+**Thoughts:**
+
+Super late getting this log in so not sure how much I can elaborate. I need to figure out how to either bring in the rspotify app or just work with the API natively. 
+
+-----------------------------
+
+
+### Day 18: January 17th, 2018
+
+**Today's Progress:**
+
 Focused on the [React Spotify Playlist](https://github.com/gsaarinen/spotify-better-playlists) application today.
 
 **Time Logged:**
@@ -12,7 +29,7 @@ Focused on the [React Spotify Playlist](https://github.com/gsaarinen/spotify-bet
 
 **Thoughts:**
 
-Awwwww yeah! I was able to really get some stuff done today. Felt good to get such a large chunk of work done and deployed on top of it as well. I'm kind of starting to come around on this React thing. It's nice that everything (at least for this app) is all pretty centrally located file-wise. I'm definitely going to keep learning more about React after this basic app and who knows - maybe I'll convert my [Rails Spotify](https://github.com/gsaarinen/rails-spotify-demo) app to a React app. It's seems to be what all the cool kids are doing. 
+Awwwww yeah! I was able to really get some stuff done today. Felt good to get such a large chunk of work done and deployed on top of it as well. I'm kind of starting to come around on this React thing. It's nice that everything (at least for this app) is all pretty centrally located file-wise. I'm definitely going to keep learning more about React after this basic app and who knows - maybe I'll convert my [Rails Spotify](https://github.com/gsaarinen/rails-spotify-demo) app to a React app. It's seems to be what all the cool kids are doing.
 
 -----------------------------
 
