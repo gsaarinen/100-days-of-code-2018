@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 22nd, 2018
+
+**Today's Progress:**
+
+Tried working directly with ruby and the rpsotify gem / Spotify API.
+
+**Time Logged:**
+
+1.5
+
+**Thoughts:**
+
+Kind of a frustrating day. Nothing seemed to click and for some reason concepts seem harder to understand than they were before. Maybe I'm just getting dumber 😢 
+
+-----------------------------
+
+
 ### Day 18: January 17th, 2018
 
 **Today's Progress:**
@@ -12,7 +29,7 @@ Played around more with the Rails Spotify app.
 
 **Thoughts:**
 
-Super late getting this log in so not sure how much I can elaborate. I need to figure out how to either bring in the rspotify app or just work with the API natively. 
+Super late getting this log in so not sure how much I can elaborate. I need to figure out how to either bring in the rspotify app or just work with the API natively.
 
 -----------------------------
 
