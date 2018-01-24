@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 19: January 22nd, 2018
+### Day 18: January 22nd, 2018
+
+**Today's Progress:**
+
+Spent some time going through ASCII animation stuff in the command line.
+
+**Time Logged:**
+
+2
+
+**Thoughts:**
+
+Was feeling very uninspired today so I decided to do something fun and dive a little more into how ASCII animation stuff works in command line apps. It was a lot of fun. Long story short - `\r` is your friend :)
+
+-----------------------------
+
+
+### Day 17: January 21st, 2018
 
 **Today's Progress:**
 
@@ -12,12 +29,12 @@ Tried working directly with ruby and the rpsotify gem / Spotify API.
 
 **Thoughts:**
 
-Kind of a frustrating day. Nothing seemed to click and for some reason concepts seem harder to understand than they were before. Maybe I'm just getting dumber 😢 
+Kind of a frustrating day. Nothing seemed to click and for some reason concepts seem harder to understand than they were before. Maybe I'm just getting dumber 😢
 
 -----------------------------
 
 
-### Day 18: January 17th, 2018
+### Day 16: January 19th, 2018
 
 **Today's Progress:**
 
@@ -34,7 +51,7 @@ Super late getting this log in so not sure how much I can elaborate. I need to f
 -----------------------------
 
 
-### Day 18: January 17th, 2018
+### Day 15: January 18th, 2018
 
 **Today's Progress:**
 
