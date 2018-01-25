@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 18: January 22nd, 2018
+### Day 19: January 24th, 2018
+
+**Today's Progress:**
+
+Updated the React Spotify Playlist app with actual Spotify account data via authorization.
+
+**Time Logged:**
+
+2.5
+
+**Thoughts:**
+
+It's working awwwwww yeah! Had some issues with commits at the end and fixing a lot of typos and production snafus but she is [up and working](https://gs-spotify-better-playlists.herokuapp.com/)! 
+-----------------------------
+
+
+### Day 18: January 23rd, 2018
 
 **Today's Progress:**
 
