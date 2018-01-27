@@ -1,5 +1,38 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 27th, 2018
+
+**Today's Progress:**
+
+Fully got the Photon device setup and walked through a couple of their sample apps.
+
+**Time Logged:**
+
+1
+
+**Thoughts:**
+
+This hardware stuff is pretty cool! It reminds me a lot of some of my engineering classes at IPR and walking through signal flow. I got the web IDE setup as well as installed the command line tools so hopefully I can keep playing around with them more. 
+
+-----------------------------
+
+
+### Day 20: January 26th, 2018
+
+**Today's Progress:**
+
+Started setting up the [Photon](https://www.particle.io/products/hardware/photon-wifi-dev-kit) I got from Matt and also walked through the Spotify Better Playlists react app.
+
+**Time Logged:**
+
+.75
+
+**Thoughts:**
+
+Not much to expand on.
+
+-----------------------------
+
 ### Day 19: January 24th, 2018
 
 **Today's Progress:**
@@ -12,7 +45,7 @@ Updated the React Spotify Playlist app with actual Spotify account data via auth
 
 **Thoughts:**
 
-It's working awwwwww yeah! Had some issues with commits at the end and fixing a lot of typos and production snafus but she is [up and working](https://gs-spotify-better-playlists.herokuapp.com/)! 
+It's working awwwwww yeah! Had some issues with commits at the end and fixing a lot of typos and production snafus but she is [up and working](https://gs-spotify-better-playlists.herokuapp.com/)!
 -----------------------------
 
 
