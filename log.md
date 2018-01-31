@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 30th, 2018
+
+**Today's Progress:**
+
+Worked through my Ruby CL todo app. Restructured the app, and added a `Rakefile` to run all the tests at once.
+
+**Time Logged:**
+
+1.75
+
+**Thoughts:**
+
+Decided to fire up the todo app again and dove into added the ability to read a CSV file. I also spent a lot of time restructuring the into a lib folder and the tests in a test folder. This made my tests not work but then I got dive into how to setup a `Rakefile` and how they work. Super cool!
+
+Also, I added the ability for you to load in a csv file using a custom method:
+
+```ruby
+def parse_csv_list
+  CSV.foreach('test_todo.csv', headers: true) do |row|
+    @list << TodoItem.new(row[0], row[1])
+  end
+end
+```
+...and it worked on the first try!
+
+-----------------------------
+
+
 ### Day 21: January 27th, 2018
 
 **Today's Progress:**
@@ -12,7 +40,7 @@ Fully got the Photon device setup and walked through a couple of their sample ap
 
 **Thoughts:**
 
-This hardware stuff is pretty cool! It reminds me a lot of some of my engineering classes at IPR and walking through signal flow. I got the web IDE setup as well as installed the command line tools so hopefully I can keep playing around with them more. 
+This hardware stuff is pretty cool! It reminds me a lot of some of my engineering classes at IPR and walking through signal flow. I got the web IDE setup as well as installed the command line tools so hopefully I can keep playing around with them more.
 
 -----------------------------
 
