@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 23: January 31st, 2018
+
+**Today's Progress:**
+
+Wrote some tests for the CSV portion of the Ruby todo app and started working more on the React Spotify Playlist app.
+
+**Time Logged:**
+
+1
+
+**Thoughts:**
+
+Got really tripped up during some of the more advanced data wrangling portions of the playlists tracks piece of the tutorial. Stuff is getting kind of confusing. Plus - now it seems my backend server isn't working for local development.
+
+Oy vey!
+
+-----------------------------
+
 ### Day 22: January 30th, 2018
 
 **Today's Progress:**
