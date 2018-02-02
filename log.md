@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 24: February 1st, 2018
+
+**Today's Progress:**
+
+Worked on the React Spotify playlist app. Updated to include the top 3 songs of each playlist and updated the filter so it works on the songs as well.
+
+**Time Logged:**
+
+1.25
+
+**Thoughts:**
+
+Yup - pretty much summed it up in the progress section. 
+
+-----------------------------
+
+
 ### Day 23: January 31st, 2018
 
 **Today's Progress:**
