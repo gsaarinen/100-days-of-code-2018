@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 25: February 8th, 2018
+
+**Today's Progress:**
+
+Worked again on the React Spotify app. Got all the final design work done and deployed it.
+
+**Time Logged:**
+
+1.15
+
+**Thoughts:**
+
+Oooof.
+
+It's been a solid week since I've been able to get back into coding. I feel bad but with stress, flu, and so many other things going on it was pretty important to take a break.
+
+It was nice to finish the React project and it taught some very basics of how components work in a React app. 
+
+-----------------------------
+
+
 ### Day 24: February 1st, 2018
 
 **Today's Progress:**
@@ -12,7 +33,7 @@ Worked on the React Spotify playlist app. Updated to include the top 3 songs of 
 
 **Thoughts:**
 
-Yup - pretty much summed it up in the progress section. 
+Yup - pretty much summed it up in the progress section.
 
 -----------------------------
 
